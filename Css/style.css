@@ -3,9 +3,16 @@
 }
 
 .carousel-item {
-  height: 400px;
-  background-size: cover;
-  background-position: center;
+  padding: 1.5rem;
+  height: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.carousel-slide {
+  margin-bottom: 2rem;
 }
 
 #footer {
