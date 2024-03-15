@@ -22,3 +22,28 @@ ul.no-bullets {
   color: #212529;
   text-decoration: none !important;
 }
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 900px;
+}
+
+p {
+  font-family: "Merriweather", serif;
+  font-weight: 600px;
+}
+
+span {
+  font-family: "Merriweather", serif;
+  font-weight: 600px;
+}
+
+div {
+  font-family: "Merriweather", serif;
+  font-weight: 600px;
+}
+
+li {
+  font-family: "Merriweather", serif;
+  font-weight: 600px;
+}
