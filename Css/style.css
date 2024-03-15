@@ -47,3 +47,8 @@ li {
   font-family: "Merriweather", serif;
   font-weight: 600px;
 }
+
+.nav-item {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
