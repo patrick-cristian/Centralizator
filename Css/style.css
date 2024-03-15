@@ -44,11 +44,24 @@ div {
 }
 
 li {
+  color: #000000;
   font-family: "Merriweather", serif;
   font-weight: 600px;
+
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;                
+
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px; 
 }
 
 .nav-item {
   margin-left: 2rem;
   margin-right: 2rem;
+}
+
+.custom-hover:hover {
+  background-color: #E1E1E1;
 }
