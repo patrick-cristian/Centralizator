@@ -75,3 +75,7 @@ li {
 table td {
   outline: 1px solid black;
 }
+
+#leaderboard {
+  background-color: lightblue;
+}
