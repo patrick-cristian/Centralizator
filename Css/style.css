@@ -72,3 +72,6 @@ li {
 .custom-hover:hover {
   background-color: #E1E1E1;
 }
+table td {
+  outline: 1px solid black;
+}
