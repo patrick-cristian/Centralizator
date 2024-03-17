@@ -1,6 +1,21 @@
+/* ID */
 #logo {
   border-radius: 50%;
 }
+
+#footer {
+  background-color: #30608bea;
+}
+
+#email {
+  color: #212529;
+  text-decoration: none !important;
+}
+
+#leaderboard {
+  background-color: lightblue;
+}
+/* Class */
 
 .carousel-item {
   padding: 1.5rem;
@@ -15,21 +30,16 @@
   margin-bottom: 2rem;
 }
 
-#footer {
-  background-color: #30608bea;
+.nav-item {
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
-ul.no-bullets {
-  list-style-type: none;
-  padding: 0; 
-  margin: 0;
+.custom-hover:hover {
+  background-color: #E1E1E1;
 }
 
-#email {
-  color: #212529;
-  text-decoration: none !important;
-}
-
+/* Tags */
 h1 {
   font-family: "Merriweather", serif;
   font-weight: 900px;
@@ -64,18 +74,12 @@ li {
   border-bottom-right-radius: 5px; 
 }
 
-.nav-item {
-  margin-left: 2rem;
-  margin-right: 2rem;
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0; 
+  margin: 0;
 }
 
-.custom-hover:hover {
-  background-color: #E1E1E1;
-}
 table td {
   outline: 1px solid black;
-}
-
-#leaderboard {
-  background-color: lightblue;
 }
