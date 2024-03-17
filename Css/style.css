@@ -52,6 +52,42 @@
   background-color: #E1E1E1;
 }
 
+.person-img {
+  border-radius: 50%;
+
+  min-width: 100px;
+  max-width: 100px;
+  min-height: 100px;
+  max-height: 100px;
+}
+
+.person-row {
+  margin-left: 0% !important;
+  margin-right: 0% !important;
+}
+
+.block-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-height: 500px;
+  max-width: 500px;
+}
+
+.separator {
+  width: auto;
+  height: 50px;
+  background-color: #E1E1E1;
+}
+
+.blog {
+  background-color: #858282e7;
+}
+
+.justified {
+  text-align: justify;
+}
+
 /* Tags */
 h1 {
   font-family: "Merriweather", serif;
@@ -95,12 +131,4 @@ ul.no-bullets {
 
 table td {
   outline: 1px solid black;
-}
-
-.block-image {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-height: 500px;
-  max-width: 500px;
 }
