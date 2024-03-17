@@ -18,11 +18,14 @@
 
 #gallery {
   background-color: #E1E1E1;
-  padding: 5rem;
 }
 
 #gallery-slideshow {
   background-color: #ffffff;
+}
+
+#metodologie {
+  background-color: #E1E1E1;
 }
 
 /* Class */
