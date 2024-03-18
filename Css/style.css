@@ -66,12 +66,19 @@
   margin-right: 0% !important;
 }
 
-.block-image {
+.block-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-height: 500px;
-  max-width: 500px;
+  height: 20rem;
+}
+
+.workshop-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
 }
 
 .separator {
@@ -94,7 +101,7 @@
 .table {
   #gallery-slideshow {
     background-color: #ffffff;
-    margin-bottom: 0; // Add this line to remove the white bar
+    margin-bottom: 0;
   }
 }
 /* Tags */
