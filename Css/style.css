@@ -4,7 +4,7 @@
 }
 
 #footer {
-  background-color: #30608bea;
+  background-color: #30618dea;
 }
 
 #email {
@@ -88,6 +88,15 @@
   text-align: justify;
 }
 
+.main-row {
+  background-color: #3d688d5d;
+}
+.table {
+  #gallery-slideshow {
+    background-color: #ffffff;
+    margin-bottom: 0; // Add this line to remove the white bar
+  }
+}
 /* Tags */
 h1 {
   font-family: "Merriweather", serif;
